@@ -5,7 +5,7 @@
 
     <header>
         <h1 style="text-align:center;font-size:50px">сайт про різних порід котів</h1>
-        <h3 style="font-size:40px"> на цій сторінці я буду писати про <a href="#first"> Британська,</a><a href="#gawan">Гавана,</a><a href="#turk">Турецький</a></h3>
+        <h3 style="font-size:40px"> на цій сторінці я буду писати про породи котів <a href="#first"> Британська,</a><a href="#gawan">Гавана,</a><a href="#turk">Турецький</a></h3>
         
         
     </header>
